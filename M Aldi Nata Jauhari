@@ -1,0 +1,21 @@
+Algoritma menentukan bilangan ganjil atau genap
+*inisiasi*
+-jari jari dalam cm,luas dalam cm²,π adalah 3,14
+*proses*
+-hitung luas π×r2
+*output*
+-tampilkan luas
+Algoritma menentukan luas lingkaran
+*inisiasi*
+-menentukan angka
+*proses*
+-jika angka dibagi 2 dan hasilnya 0 maka angka tersebut genap,dan jika angka dibagi 2 dan hasilnya 1 maka angka tersebut ganjil
+*output*
+-cetak angka
+Algoritma menentukan semester mahasiswa berdasarkan tahun masuk
+smester = tahun _ berlalu * 2+1
+smester = tahun berlalu *2 
+mulai masukan tahun masukan mahasiswa 
+2026_2024 = 2 tahun berlalu 
+= 4 smester 
+selesai sudah 
